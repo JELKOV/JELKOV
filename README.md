@@ -24,12 +24,12 @@
   <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />&nbsp;
 
   <h4>☁️ Cloud & Deployment</h4>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/amazonaws.svg" alt="AWS EC2" style="width:40px; height:40px; fill:#FF9900;" title="AWS EC2" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/amazonaws.svg" alt="AWS RDS" style="width:40px; height:40px; fill:#527FFF;" title="AWS RDS" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/amazonaws.svg" alt="AWS S3" style="width:40px; height:40px; fill:#569A31;" title="AWS S3" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/amazonaws.svg" alt="AWS Route53" style="width:40px; height:40px; fill:#8C4FFF;" title="AWS Route53" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/amazonaws.svg" alt="AWS EC2" style="width:40px; height:40px; fill:#FF9900;" title="AWS EC2" />&nbsp;<span style="font-size:16px; color:#FF9900;">EC2</span>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/amazonaws.svg" alt="AWS RDS" style="width:40px; height:40px; fill:#527FFF;" title="AWS RDS" />&nbsp;<span style="font-size:16px; color:#527FFF;">RDS</span>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/amazonaws.svg" alt="AWS S3" style="width:40px; height:40px; fill:#569A31;" title="AWS S3" />&nbsp;<span style="font-size:16px; color:#569A31;">S3</span>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/amazonaws.svg" alt="AWS Route53" style="width:40px; height:40px; fill:#8C4FFF;" title="AWS Route53" />&nbsp;<span style="font-size:16px; color:#8C4FFF;">Route53</span>
   
-  <h4 align="center">🛠 Tools</h4>
+  <h4>🛠 Tools</h4>
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
   <img src="https://img.shields.io/badge/VScode-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />&nbsp;
   <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />&nbsp;
