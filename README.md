@@ -27,7 +27,8 @@
   <img src="https://img.shields.io/badge/AWS EC2-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS EC2" />&nbsp;
   <img src="https://img.shields.io/badge/AWS RDS-527FFF.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS RDS" />&nbsp;
   <img src="https://img.shields.io/badge/AWS S3-569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="AWS S3" />&nbsp;
-  <img src="https://img.shields.io/badge/AWS Route53-8C4FFF.svg?style=for-the-badge&logo=amazon-route53&logoColor=white" alt="AWS Route53" />&nbsp;
+  <img src="https://img.shields.io/badge/AWS Route53-FB7206.svg?style=for-the-badge&logo=amazon-route53&logoColor=white" alt="AWS Route53" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;
 
   <h4 align="center">🛠 Tools</h4>
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
