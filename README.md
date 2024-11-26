@@ -20,23 +20,16 @@
   <h4>🗄️ Databases</h4>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
   <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />&nbsp;
-  <h4 align="center">🛠 Tools</h4>
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
-  <img src="https://img.shields.io/badge/VScode-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />&nbsp;
-  <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />&nbsp;
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />&nbsp;
-</div>
-
-<h3 align="center">✨ Cloud & Deployment ✨</h3>
-<div align="center">
-  <h4>☁️ Cloud</h4>
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />&nbsp;
-  <img src="https://img.shields.io/badge/EC2-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="EC2" />&nbsp;
-  <img src="https://img.shields.io/badge/S3-569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3" />&nbsp;
-  <img src="https://img.shields.io/badge/RDS-527FFF.svg?style=for-the-badge&logo=amazon-rds&logoColor=white" alt="RDS" />&nbsp;
-  <img src="https://img.shields.io/badge/Route53-FB7206.svg?style=for-the-badge&logo=amazon-route53&logoColor=white" alt="Route53" />&nbsp;
-  <h4>📦 Deployment</h4>
+  <h4>☁️ Cloud & Deployment</h4>
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS EC2" />&nbsp;
+  <img src="https://img.shields.io/badge/AWS RDS-527FFF.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS RDS" />&nbsp;
+  <img src="https://img.shields.io/badge/AWS S3-569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="AWS S3" />&nbsp;
+  <img src="https://img.shields.io/badge/AWS Route53-FB7206.svg?style=for-the-badge&logo=amazon-route53&logoColor=white" alt="AWS Route53" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
+  <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />&nbsp;
+  <img src="https://img.shields.io/badge/VScode-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />&nbsp;
 </div>
 
 <h3 align="center">📚 Studying 📚</h3>
