@@ -14,17 +14,21 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
   <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />&nbsp;
+
   <h4>📦 Frameworks & Libraries</h4>
   <img src="https://img.shields.io/badge/Spring Framework-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework" />&nbsp;
   <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;
+
   <h4>🗄️ Databases</h4>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
   <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />&nbsp;
+
   <h4>☁️ Cloud & Deployment</h4>
   <img src="https://img.shields.io/badge/AWS EC2-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS EC2" />&nbsp;
-  <img src="https://img.shields.io/badge/AWS RDS-#527FFF.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS RDS" />&nbsp;
-  <img src="https://img.shields.io/badge/AWS S3-#569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="AWS S3" />&nbsp;
-  <img src="https://img.shields.io/badge/AWS Route53-#8C4FFF.svg?style=for-the-badge&logo=amazon-route53&logoColor=white" alt="AWS Route53" />&nbsp;
+  <img src="https://img.shields.io/badge/AWS RDS-527FFF.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS RDS" />&nbsp;
+  <img src="https://img.shields.io/badge/AWS S3-569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="AWS S3" />&nbsp;
+  <img src="https://img.shields.io/badge/AWS Route53-8C4FFF.svg?style=for-the-badge&logo=amazon-route53&logoColor=white" alt="AWS Route53" />&nbsp;
+
   <h4 align="center">🛠 Tools</h4>
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
   <img src="https://img.shields.io/badge/VScode-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />&nbsp;
