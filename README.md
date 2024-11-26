@@ -23,9 +23,11 @@
     <!-- GitHub Stats -->
     <td align="center">
       <h4>📊 GitHub Stats</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=JELKOV&show_icons=true&theme=radical&count_private=true" />
+      <!-- Main GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=JELKOV&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JELKOV&layout=compact&theme=radical" />
+      <!-- Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JELKOV&layout=compact&theme=radical&hide=css,html" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -50,9 +52,9 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://jelkov-developer.notion.site/49ba695ecae34a729cce1f8b250c4502?pvs=4">
-    <img src="https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+    <img src="https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=notion&logoColor=black" />&nbsp;
   </a>
   <a href="mailto:ajh4234@gmail.com">
-    <img src="https://img.shields.io/badge/ajh4234@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/ajh4234@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
   </a>
 </div>
