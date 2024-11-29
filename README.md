@@ -32,9 +32,11 @@
 
   <h4 align="center">🛠 Tools</h4>
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />&nbsp;
   <img src="https://img.shields.io/badge/VScode-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />&nbsp;
   <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />&nbsp;
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />&nbsp;
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />&nbsp;
 </div>
 
 <h3 align="center">📚 Studying 📚</h3>
