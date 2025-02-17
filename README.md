@@ -20,6 +20,7 @@
   <h4>📦 Frameworks & Libraries</h4>
   <img src="https://img.shields.io/badge/Spring Framework-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework" />&nbsp;
   <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />&nbsp;
   <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />&nbsp;
   <img src="https://img.shields.io/badge/matplotlib-11557c.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />&nbsp;
