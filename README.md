@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JELKOV&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JELKOV&layout=compact&theme=radical&hide=css,html,jupyter%20notebook,tex" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JELKOV&layout=compact&theme=radical&hide=tex,css,html,jupyter%20notebook" />
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
