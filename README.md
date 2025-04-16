@@ -1,9 +1,9 @@
 <h3 align="center">📊 GitHub Stats 📊</h3>
-<h5 align="center">※ CSS, HTML, Jupyter Notebook은 제외되었습니다.※</h5>
+<h5 align="center">※ 문서 및 마크업 언어는 제외하고 개발 언어 기준으로 표시됩니다.※</h5>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JELKOV&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JELKOV&layout=compact&theme=radical&hide=css,html,jupyter%20notebook" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JELKOV&layout=compact&theme=radical&hide=css,html,jupyter%20notebook,tex" alt="Top Languages" />
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
