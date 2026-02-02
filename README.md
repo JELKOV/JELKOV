@@ -1,6 +1,6 @@
 <div align="center">
   <h1>JELKOV</h1>
-  <p>Backend Engineer · FastAPI · Data</p>
+  <p>Backend Engineer</p>
   <p>
     <a href="https://jelkov-developer.notion.site/49ba695ecae34a729cce1f8b250c4502?pvs=4">
       <img alt="Notion" src="https://img.shields.io/badge/Notion-111111.svg?style=for-the-badge&logo=notion&logoColor=white" />
