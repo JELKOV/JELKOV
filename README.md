@@ -21,9 +21,9 @@
 
 ## About Me
 
-- Backend engineer focused on API development, data workflows, and service architecture
-- Main stack: Python, FastAPI, Java, Spring
-- Comfortable with SQL-based systems, cloud deployment, and data processing
+- Backend engineer focused on designing and building reliable APIs, data workflows, and scalable service architectures
+- Primary stack: Python, FastAPI, Java, Spring
+- Experienced with relational databases, cloud deployment, and data processing pipelines
 
 ---
 
@@ -86,6 +86,7 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-111111.svg?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-111111.svg?style=for-the-badge&logo=cursor&logoColor=white" />
 </p>
 
 ---
