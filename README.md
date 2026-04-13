@@ -33,12 +33,12 @@
   <img
     height="165"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=JELKOV&show_icons=true&include_all_commits=true&hide_rank=true&theme=transparent&hide_border=true&custom_title=GitHub%20Stats"
+    src="./profile/stats.svg"
   />
   <img
     height="165"
     alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JELKOV&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&custom_title=Language%20Usage&hide=jupyter%20notebook"
+    src="./profile/top-langs.svg"
   />
 </p>
 
