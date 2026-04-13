@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Stats Placeholder</title>
+  <desc id="desc">Temporary placeholder shown until the workflow generates the real GitHub stats card.</desc>
+  <rect width="495" height="195" rx="12" fill="#0d1117"/>
+  <rect x="1" y="1" width="493" height="193" rx="11" fill="none" stroke="#30363d"/>
+  <text x="247.5" y="84" fill="#e6edf3" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">GitHub Stats</text>
+  <text x="247.5" y="116" fill="#8b949e" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">Run the "Update README cards" workflow once.</text>
+</svg>
